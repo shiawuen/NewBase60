@@ -3,6 +3,7 @@
 , "keywords" : ["NewBase60", "utility"]
 , "version" : "1.0.0"
 , "author" : "Edward O'Connor <hober0@gmail.com> (http://edward.oconnor.cx)"
+, "main" : "NewBase60"
 , "repository":
   { "type" : "git"
   , "url" : "https://github.com/hober/NewBase60.git"
