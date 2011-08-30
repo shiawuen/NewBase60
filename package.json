@@ -1,0 +1,15 @@
+{ "name" : "NewBase60"
+, "description" : "Tantek Çelik's NewBase60, lightly translated from the original CASSIS to CommonsJS- & Node.js-aware JavaScript by Edward O'Connor. Released under CC BY-SA 3.0."
+, "keywords" : ["NewBase60", "utility"]
+, "version" : "1.0.0"
+, "author" : "Edward O'Connor <hober0@gmail.com> (http://edward.oconnor.cx)"
+, "repository":
+  { "type" : "git"
+  , "url" : "https://github.com/hober/NewBase60.git"
+  }
+, "licenses" :
+  [ { "type" : "CC BY-SA 3.0"
+    , "url" : "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}
