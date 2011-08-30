@@ -70,5 +70,5 @@ if ((typeof(__filename) == 'string')
 
     var s = Math.pow(2,32);
     var n = Math.floor(Math.random()*s);
-    require('sys').puts(numtosxg(n));
+    require('util').puts(numtosxg(n));
 }
